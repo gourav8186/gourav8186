@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gourav8186
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Mern Stack
-- 📫 How to reach me Linked In https://www.linkedin.com/in/gourav-suthar-91857723b/
+- 📫 How to reach me Linked In - gourav-suthar-91857723b , Gmail - gouravsuthar564@gmail.com
